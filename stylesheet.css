@@ -3,7 +3,7 @@ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abb
 
 body {
 	background-image: url("/Volumes/CastleWulfenbach/alessandroimprota/background3.jpg");
-	background-size: cover;
+	/*background-size: cover;*/
 	background-repeat: no-repeat;
 }
 
@@ -11,9 +11,9 @@ body {
 	max-width: 500px;
 	margin-left: 5%;
 	margin-top: 490px;
-	border: 1px solid #EBE8E7;
+	border: 1px solid grey;
 	border-radius: 5%;
-	background-color: rgba(197, 242, 158, 0);
+	background-color: rgba(126, 133, 142, 0.4);
 }
 
 h1 {
@@ -44,7 +44,7 @@ h1 {
 
 p {
 	font-size: 1.7em;
-	color: rgb(45, 114, 4);
+	color: rgb(249, 249, 6);
 }
 
 button {
